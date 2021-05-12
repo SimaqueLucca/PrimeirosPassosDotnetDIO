@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Primeiros passos com dotnet e csharp/1.0.0": {
+        "runtime": {
+          "Primeiros passos com dotnet e csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Primeiros passos com dotnet e csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Luca Simaque Souza\Desktop\Primeiros passos com dotnet e csharp\bin\Debug\net5.0\Primeiros passos com dotnet e csharp.exe
+C:\Users\Luca Simaque Souza\Desktop\Primeiros passos com dotnet e csharp\bin\Debug\net5.0\Primeiros passos com dotnet e csharp.deps.json
+C:\Users\Luca Simaque Souza\Desktop\Primeiros passos com dotnet e csharp\bin\Debug\net5.0\Primeiros passos com dotnet e csharp.runtimeconfig.json
+C:\Users\Luca Simaque Souza\Desktop\Primeiros passos com dotnet e csharp\bin\Debug\net5.0\Primeiros passos com dotnet e csharp.runtimeconfig.dev.json
+C:\Users\Luca Simaque Souza\Desktop\Primeiros passos com dotnet e csharp\bin\Debug\net5.0\Primeiros passos com dotnet e csharp.dll
+C:\Users\Luca Simaque Souza\Desktop\Primeiros passos com dotnet e csharp\bin\Debug\net5.0\ref\Primeiros passos com dotnet e csharp.dll
+C:\Users\Luca Simaque Souza\Desktop\Primeiros passos com dotnet e csharp\bin\Debug\net5.0\Primeiros passos com dotnet e csharp.pdb
+C:\Users\Luca Simaque Souza\Desktop\Primeiros passos com dotnet e csharp\obj\Debug\net5.0\Primeiros passos com dotnet e csharp.csprojAssemblyReference.cache
+C:\Users\Luca Simaque Souza\Desktop\Primeiros passos com dotnet e csharp\obj\Debug\net5.0\Primeiros passos com dotnet e csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca Simaque Souza\Desktop\Primeiros passos com dotnet e csharp\obj\Debug\net5.0\Primeiros passos com dotnet e csharp.AssemblyInfoInputs.cache
+C:\Users\Luca Simaque Souza\Desktop\Primeiros passos com dotnet e csharp\obj\Debug\net5.0\Primeiros passos com dotnet e csharp.AssemblyInfo.cs
+C:\Users\Luca Simaque Souza\Desktop\Primeiros passos com dotnet e csharp\obj\Debug\net5.0\Primeiros passos com dotnet e csharp.csproj.CoreCompileInputs.cache
+C:\Users\Luca Simaque Souza\Desktop\Primeiros passos com dotnet e csharp\obj\Debug\net5.0\Primeiros passos com dotnet e csharp.dll
+C:\Users\Luca Simaque Souza\Desktop\Primeiros passos com dotnet e csharp\obj\Debug\net5.0\ref\Primeiros passos com dotnet e csharp.dll
+C:\Users\Luca Simaque Souza\Desktop\Primeiros passos com dotnet e csharp\obj\Debug\net5.0\Primeiros passos com dotnet e csharp.pdb
+C:\Users\Luca Simaque Souza\Desktop\Primeiros passos com dotnet e csharp\obj\Debug\net5.0\Primeiros passos com dotnet e csharp.genruntimeconfig.cache
